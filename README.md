@@ -1,4 +1,5 @@
 # SNAGSHIELD-india
+![SNAGSHIELD Concept](745f878e-4dda-4ed6-9d10-705bd1e227bd.png)
 A removable protective housing for scooter side stands, designed to reduce clothing snagging.
 # 🛵 SNAGSHIELD
 ### Small inconvenience. Smarter engineering.
